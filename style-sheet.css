@@ -1,0 +1,41 @@
+html, body {
+  margin:0;
+  padding:0;
+}
+
+form div {
+  display:flex;
+  flex-wrap:wrap;
+}
+
+form div {
+  margin:1em;
+  padding:1em;
+}
+
+form label {
+  color:#999;
+  font-family:sans-serif;
+}
+
+fieldset {
+  margin:2em;
+}
+
+form {
+  flex-basis: 80vw;
+  border: solid 2px black;
+  border-radius: 5px;
+  background-color: white;
+  margin: 3%;
+}
+
+h2{
+  font-display: flex;
+  flex-basis: 90vw;
+  text-align: center;
+}
+
+body {
+  background-color: #4CAF50;
+}
